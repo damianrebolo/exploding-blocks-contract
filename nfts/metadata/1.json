@@ -1,0 +1,7 @@
+{
+  "name": "Attack",
+  "image": "ipfs://Qmbw71EVzFxQvFNubbDbBrV8q2UCcUvfgZVavdUtejJHAg/1.jpg",
+  "external_url": "",
+  "description": "Gives the attacker priority on dice rolls (if dice are equal, the attacker wins)",
+  "attributes": []
+}
