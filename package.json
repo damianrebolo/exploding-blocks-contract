@@ -1,3 +1,15 @@
 {
-  "name": "hardhat-project"
+  "name": "exploding-blocks-contract",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "npx hardhat test --network hardhat"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "@openzeppelin/contracts-upgradeable": "^5.0.2"
+  }
 }
